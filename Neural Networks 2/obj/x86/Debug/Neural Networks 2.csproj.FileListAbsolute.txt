@@ -1,0 +1,184 @@
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csprojResolveAssemblyReference.cache
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\Content\dotw.png
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\Neural Networks 2.exe
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\Neural Networks 2.pdb
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.dll
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.xml
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural Networks 2.exe
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural Networks 2.pdb
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\Content\font.xnb
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural_Networks_2.Form1.resources
+D:\Coding\XNA\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural Networks 2.exe
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural Networks 2.pdb
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\Content\dotw.png
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\Neural Networks 2.exe
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\Neural Networks 2.pdb
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural_Networks_2.Form1.resources
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csproj.GenerateResource.Cache
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural Networks 2.exe
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural Networks 2.pdb
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\Content\dotw.png
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\Neural Networks 2.exe
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\Neural Networks 2.pdb
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csprojResolveAssemblyReference.cache
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural_Networks_2.Form1.resources
+C:\Users\Kot-Laptop\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csproj.GenerateResource.Cache
+C:\Users\Admin\OneDrive\VisualDrive\Neural Networks 2\Neural Networks 2\bin\Windows\x86\Debug\Content\small.png
+D:\Coding\Neural Networks\Neural Networks 2\obj\x86\Debug\Neural Networks 2.exe
+D:\Coding\Neural Networks\Neural Networks 2\obj\x86\Debug\Neural Networks 2.pdb
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\obj\x86\Debug\Neural Networks 2.exe
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\obj\x86\Debug\Neural Networks 2.pdb
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\Content\dotw.png
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\Content\small.png
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\Content\font.xnb
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\Neural Networks 2.exe
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\Neural Networks 2.pdb
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.dll
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.xml
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csprojResolveAssemblyReference.cache
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\obj\x86\Debug\Neural_Networks_2.Form1.resources
+D:\Coding\Neural Networks - Copy (2)\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csproj.GenerateResource.Cache
+D:\Coding\NEAT\Neural Networks 2\obj\x86\Debug\Neural Networks 2.exe
+D:\Coding\NEAT\Neural Networks 2\obj\x86\Debug\Neural Networks 2.pdb
+D:\Coding\NEAT\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csprojResolveAssemblyReference.cache
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\dotw.png
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\small.png
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\font.xnb
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Neural Networks 2.exe
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Neural Networks 2.pdb
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.dll
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.xml
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\fly.png
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\dotw.xnb
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\fly.xnb
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\small.xnb
+D:\Coding\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\food.xnb
+D:\Coding\C#\NEAT\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csprojResolveAssemblyReference.cache
+D:\Coding\C#\NEAT\Neural Networks 2\obj\x86\Debug\Neural Networks 2.exe
+D:\Coding\C#\NEAT\Neural Networks 2\obj\x86\Debug\Neural Networks 2.pdb
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\dotw.png
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\fly.png
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\small.png
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\dotw.xnb
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\fly.xnb
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\font.xnb
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\food.xnb
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Content\small.xnb
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Neural Networks 2.exe
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\Neural Networks 2.pdb
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.dll
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.xml
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\Coding\C#\NEAT\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csproj.CoreCompileInputs.cache
+D:\Coding\C#\NEAT\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csproj.CopyComplete
