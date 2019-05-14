@@ -182,3 +182,34 @@ D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.xml
 D:\Coding\C#\NEAT\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
 D:\Coding\C#\NEAT\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csproj.CoreCompileInputs.cache
 D:\Coding\C#\NEAT\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csproj.CopyComplete
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csprojAssemblyReference.cache
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csproj.CoreCompileInputs.cache
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\obj\x86\Debug\Neural Networks 2.exe
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\obj\x86\Debug\Neural Networks 2.pdb
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\Content\dotw.png
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\Content\fly.png
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\Content\small.png
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\Content\dotw.xnb
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\Content\fly.xnb
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\Content\font.xnb
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\Content\food.xnb
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\Content\small.xnb
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\Neural Networks 2.exe
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\Neural Networks 2.pdb
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\nishi\Documents\GitHub\Evolution-with-NN\Neural Networks 2\obj\x86\Debug\Neural Networks 2.csproj.CopyComplete
