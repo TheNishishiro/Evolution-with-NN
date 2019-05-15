@@ -111,11 +111,14 @@ namespace Neural_Networks_2
             }
             time--;
 
+            // If there is no flies alive or simulation time ran out create new generation
             if (alive == 0 || time <= 0)
             {
                 List<Entity> newGeneration = new List<Entity>();
                 float avarageFitness = 0;
                 prevFitness = 0;
+
+                // Calculate avarage fitness to filter bad performing entities
                 for (int i = 0; i < _entity.Count; i++)
                 {
                     _entity[i].fitness *= _entity[i].eaten;
@@ -132,6 +135,7 @@ namespace Neural_Networks_2
                 sw.WriteLine(Generation.ToString() + " : " + prevFitness.ToString("0.0000000") + " | " + this.avarageFitness);
                 sw.Close();
 
+                // Create mating pool without worse performing entities 
                 List<Entity> pool = new List<Entity>();
                 for (int i = 0; i < _entity.Count; i++)
                 {
@@ -148,6 +152,7 @@ namespace Neural_Networks_2
                         pool.Add(_entity[i]);
                 }
 
+                // Create new generation by taking parents from the pool
                 while (newGeneration.Count < Population)
                 {
                     int parent1ID, parent2ID;
@@ -172,6 +177,7 @@ namespace Neural_Networks_2
 
             NFramework.NDrawing.DrawText("Time: " + time + "\nGeneration: " + Generation + "\nMax Fitness: " + prevFitness + "\nAvarage Fitness: " + avarageFitness, new Vector2(10, 10));
 
+            // Draw some garbage unoptimized plot at the bottom of a screen
             int prev = 0, newPrev = 0;
             for(int i = 0, w = 0; i < fitnessHistory.Count-1; i++, w++)
             {
