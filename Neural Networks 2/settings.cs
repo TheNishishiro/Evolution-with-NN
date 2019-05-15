@@ -18,7 +18,7 @@ namespace Neural_Networks_2
         public static int Generation = 0;
         public static int Population = 20;
         public static int timeLimit = 2500;
-        public static int maxFood = 70;
+        public static int maxFood = 50;
         public static int mutation = 1;
         public static float initialHP = 255;
         public static float maxHP = 500;

@@ -99,14 +99,10 @@ namespace Neural_Networks_2
                 food[i].Draw();
                 for (int j = 0; j < _entity.Count; j++)
                 {
-                    if (food[i].Collision(_entity[j]))
+                    if(food[i].isEaten(_entity[j]))
                     {
-                        food.RemoveAt(i);
-                        i--;
-                        food.Add(new Food());
+                        food[i].NewPosition(_entity, food);
                     }
-                    if (i < 0)
-                        break;
                 }
             }
             time--;
