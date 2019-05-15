@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <SourceFile>D:/Coding/C#/NEAT/Neural Networks 2/Content/dotw.png</SourceFile>
-  <SourceTime>2017-02-14T20:57:05.9596081+01:00</SourceTime>
-  <DestFile>D:/Coding/C#/NEAT/Neural Networks 2/Content/bin/Windows/dotw.xnb</DestFile>
-  <DestTime>2017-06-06T13:22:06.1278229+02:00</DestTime>
+  <SourceFile>C:/Users/nishi/Documents/GitHub/Evolution-with-NN/Neural Networks 2/Content/dotw.png</SourceFile>
+  <SourceTime>2019-05-14T17:33:20.7517378+02:00</SourceTime>
+  <DestFile>C:/Users/nishi/Documents/GitHub/Evolution-with-NN/Neural Networks 2/Content/bin/Windows/dotw.xnb</DestFile>
+  <DestTime>2019-05-15T20:17:04.2017258+02:00</DestTime>
   <Importer>TextureImporter</Importer>
-  <ImporterTime>2017-03-01T16:05:36+01:00</ImporterTime>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
-  <ProcessorTime>2017-03-01T16:05:36+01:00</ProcessorTime>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
   <Parameters>
     <Key>ColorKeyColor</Key>
     <Value>255,0,255,255</Value>

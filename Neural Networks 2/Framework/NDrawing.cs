@@ -29,6 +29,11 @@ namespace NFramework
         {
             Textures.Add(name, c.Load<Texture2D>(Fullpath));
         }
+
+        public static void AddTexture(string name, Texture2D texture)
+        {
+            Textures.Add(name, texture);
+        }
         public static void AddTexture(string Fullpath)
         {
             Textures.Add(Fullpath, c.Load<Texture2D>(Fullpath));

@@ -17,8 +17,13 @@ namespace Neural_Networks_2
         int alive = 1, time = timeLimit;
         float prevFitness = 0, avarageFitness = 0;
 
+        SideBar sideBar = new SideBar();
+
         FileStream fs;
         StreamWriter sw;
+
+        KeyboardState ks_old = Keyboard.GetState();
+        int previewEntityID = 0;
 
         public Game1()
         {
@@ -51,6 +56,9 @@ namespace Neural_Networks_2
             NFramework.NDrawing.AddFont("font", "font");
             NFramework.NDrawing.AddPixelTexture("line", GraphicsDevice);
 
+            NFramework.NDrawing.AddTexture("sidebar", NFramework.NGraphics.Texture_CreatePixel(GraphicsDevice, Color.FromNonPremultiplied(0, 0, 0, 100)));
+
+
             for (int i = 0; i < maxFood; i++)
                 food.Add(new Food());
 
@@ -82,7 +90,7 @@ namespace Neural_Networks_2
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
             spriteBatch.Begin(SpriteSortMode.Immediate, BlendState.NonPremultiplied);
-
+            
             alive = 0;
             for (int i = 0; i < _entity.Count; i++)
             {
@@ -90,9 +98,11 @@ namespace Neural_Networks_2
                 {
                     _entity[i].Update();
                     _entity[i].Draw();
+                    _entity[i].ChangeColor();
                     alive = 1;
                 }
             }
+            _entity[previewEntityID].ChangeColor(true);
 
             for (int i = 0; i < food.Count; i++)
             {
@@ -106,7 +116,7 @@ namespace Neural_Networks_2
                 }
             }
             time--;
-
+            
             // If there is no flies alive or simulation time ran out create new generation
             if (alive == 0 || time <= 0)
             {
@@ -171,8 +181,28 @@ namespace Neural_Networks_2
                 Generation++;
             }
 
-            NFramework.NDrawing.DrawText("Time: " + time + "\nGeneration: " + Generation + "\nMax Fitness: " + prevFitness + "\nAvarage Fitness: " + avarageFitness, new Vector2(10, 10));
+            // Keyboard input handling
+            KeyboardState ks = Keyboard.GetState();
+            if (ks != ks_old)
+            {
+                if (ks.IsKeyDown(Keys.I))
+                {
+                    sideBar.Toggle();
+                }
+                else if(ks.IsKeyDown(Keys.Left) && previewEntityID > 0)
+                {
+                    previewEntityID--;
+                }
+                else if (ks.IsKeyDown(Keys.Right) && previewEntityID < Population-1)
+                {
+                    previewEntityID++;
+                }
+                ks_old = ks;
+            }
 
+            sideBar.Draw(time, prevFitness, avarageFitness, _entity[previewEntityID].GetInfoString(previewEntityID));
+            
+            
             // Draw some garbage unoptimized plot at the bottom of a screen
             int prev = 0, newPrev = 0;
             for(int i = 0, w = 0; i < fitnessHistory.Count-1; i++, w++)

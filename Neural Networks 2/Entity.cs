@@ -20,15 +20,18 @@ namespace Neural_Networks_2
         public float life = initialHP;
         public float velocity;
 
+        float rotationMultiplier = 4;
+        float speedMultiplier = 10;
+
         public bool dead = false;
         public bool locked = false;
 
-        public int ID = 0;
         public int eaten = 0;
 
 
         Color color = Color.White;
-        
+
+        private float input1, input2;
 
         public float fitness = 0;
 
@@ -42,30 +45,49 @@ namespace Neural_Networks_2
         // Debug information for when you hold cursor above an entity
         public void Draw()
         {
-            if (bounds.Intersects(cursor))
-                NFramework.NDrawing.DrawText(
-                    "\nDistance L: " + distanceToLeft +
-                    "\nDistance R: " + distanceToRight +
-                    "\nrotation: " + rotation +
-                    "\nvelocity: " + velocity +
-                    "\neaten: " + eaten +
-                    "\nN1: " + Brain.GetOutput(0) +
-                    "\nN2: " + Brain.GetOutput(1) +
-                    "\nN3: " + Brain.GetOutput(2)
-                    , new Vector2(10, 100), Color.Red);
-
             NFramework.NDrawing.Draw("fly", position, color, 1, rotation, true);
             NFramework.NDrawing.Draw("small", sensor1, Color.White, 1, rotation, true);
             NFramework.NDrawing.Draw("small", sensor2, Color.Black, 1, rotation, true);
         }
 
-        public Entity()
+        public string GetInfoString(int entityID)
         {
+            return "ID:" + entityID +
+                "\nAlive: " + !dead +
+                "\nDistance L: " + distanceToLeft +
+                "\nDistance R: " + distanceToRight +
+                "\nrotation: " + rotation +
+                "\nvelocity: " + velocity +
+                "\neaten: " + eaten +
+                "\n\nNeural network:" +
+                "\nNin_1: " + input1 +
+                "\nNin_2: " + input2 +
+                "\nNout_1: " + Brain.GetOutput(0) +
+                "\nNout_2: " + Brain.GetOutput(1) +
+                "\nNout_3: " + Brain.GetOutput(2);
+
+        }
+
+        private void InitBrain()
+        {
+            bool useOutput = false;
+
             // Create new neural network with randomized weigths 
             Brain = new NeuralNetworkv2(array.Length, array);
             Brain.SetLearningRate(0.2); // useless but can stay
-            Brain.SetLinearOutput(false); // same as above
-            Brain.SetMomentum(true, 0.9); // still useless
+            Brain.SetLinearOutput(useOutput); // changes NN output to skip activation function on output layer
+            Brain.SetMomentum(true, 0.9); // also useless
+
+            if (useOutput)
+            {
+                rotationMultiplier = 1;
+                speedMultiplier = 1;
+            }
+        }
+
+        public Entity()
+        {
+            InitBrain();
 
 
             position = new Vector2(rnd.Next(1200), rnd.Next(700));
@@ -74,11 +96,7 @@ namespace Neural_Networks_2
 
         public Entity(Entity parent1, Entity parent2, int mutationRate)
         {
-
-            Brain = new NeuralNetworkv2(array.Length, array);
-            Brain.SetLearningRate(0.2);
-            Brain.SetLinearOutput(false);
-            Brain.SetMomentum(true, 0.9);
+            InitBrain();
 
             position = new Vector2(rnd.Next(1200), rnd.Next(700));
             bounds = new Rectangle((int)position.X, (int)position.Y, 26, 20);
@@ -151,10 +169,28 @@ namespace Neural_Networks_2
             }
         }
 
+        public void ChangeColor(bool selected = false)
+        {
+            if (!selected)
+            {
+                color = Color.White;
+                if (life / maxHP > 0.5)
+                {
+                    color.G = (byte)(255 - (255 * (life / maxHP)));
+                    color.B = (byte)(255 - (255 * (life / maxHP)));
+                }
+
+                if (life < (maxHP * 0.2))
+                    color.A = (byte)life;
+            }
+            else
+            {
+                color = Color.Blue;
+            }
+        }
+
         public void Update()
         {
-            color = Color.White;
-
             sensor1 = new Vector2(position.X - 10, position.Y);
             sensor2 = new Vector2(position.X + 10, position.Y);
 
@@ -184,33 +220,26 @@ namespace Neural_Networks_2
             bounds.X = (int)position.X-10;
             bounds.Y = (int)position.Y-3;
 
-            
-
-            if (life / maxHP > 0.5)
-            {
-                color.G = (byte)(255 - (255 * (life / maxHP)));
-                color.B = (byte)(255 - (255 * (life / maxHP)));
-            }
-
-            if (life < (maxHP * 0.2))
-                color.A = (byte)life;
 
             // Set 1st input neuron depending on which sensor should be active
             if (distanceToLeft > distanceToRight)
-                Brain.SetInput(0, 1); 
+                input1 = 1;
             else
-                Brain.SetInput(0, -1);
-             
+                input1 = -1;
+
+            Brain.SetInput(0, input1);
+
             // Set 2nd input neuron depending on hunger status 
-            Brain.SetInput(1, life / maxHP);
+            input2 = life / maxHP;
+            Brain.SetInput(1, input2);
             Brain.FeedForward();
 
             // Set fly rotation depending on output and increment it since it's bound to 0-1 which is slow AF
-            rotation += Math.Abs((float)Brain.GetOutput(0)) * 4;
-            rotation -= Math.Abs((float)Brain.GetOutput(1)) * 4;
+            rotation += Math.Abs((float)Brain.GetOutput(0)) * rotationMultiplier;
+            rotation -= Math.Abs((float)Brain.GetOutput(1)) * rotationMultiplier;
 
             // Same for velocity, get NN output and multiply it so it goes WEEEEEEEEEEEEEEEEEEEEEE
-            velocity = (float)Brain.GetOutput(2) * 10;
+            velocity = (float)Brain.GetOutput(2) * speedMultiplier;
 
             position += NFramework.NAction.Rotation_Get_Velocity(rotation, velocity);
 

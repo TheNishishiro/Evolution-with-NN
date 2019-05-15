@@ -1,0 +1,6 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/nishi/Documents/GitHub/Evolution-with-NN/Neural Networks 2/Content/dotw.png","C:/Users/nishi/Documents/GitHub/Evolution-with-NN/Neural Networks 2/Content/bin/Windows/dotw.xnb","TextureProcessor","Texture2DContent",1328,16469,0.0279387
+"C:/Users/nishi/Documents/GitHub/Evolution-with-NN/Neural Networks 2/Content/fly.png","C:/Users/nishi/Documents/GitHub/Evolution-with-NN/Neural Networks 2/Content/bin/Windows/fly.xnb","TextureProcessor","Texture2DContent",1277,3361,0.0080069
+"C:/Users/nishi/Documents/GitHub/Evolution-with-NN/Neural Networks 2/Content/font.spritefont","C:/Users/nishi/Documents/GitHub/Evolution-with-NN/Neural Networks 2/Content/bin/Windows/font.xnb","FontDescriptionProcessor","SpriteFontContent",2065,21521,0.742008
+"C:/Users/nishi/Documents/GitHub/Evolution-with-NN/Neural Networks 2/Content/food.png","C:/Users/nishi/Documents/GitHub/Evolution-with-NN/Neural Networks 2/Content/bin/Windows/food.xnb","TextureProcessor","Texture2DContent",1154,1685,0.0079778
+"C:/Users/nishi/Documents/GitHub/Evolution-with-NN/Neural Networks 2/Content/small.png","C:/Users/nishi/Documents/GitHub/Evolution-with-NN/Neural Networks 2/Content/bin/Windows/small.xnb","TextureProcessor","Texture2DContent",160,101,0.0079367

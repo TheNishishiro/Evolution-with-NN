@@ -9,6 +9,8 @@ namespace Neural_Networks_2
 {
     class NeuralNetworkLayer
     {
+       private string activ = "tanh"; // sigmoid, tanh, relu
+
        public int NumberOfNodes;
        public int NumberOfChildNodes;
        public int NumberOfParentNodes;
@@ -145,7 +147,7 @@ namespace Neural_Networks_2
                     else
                     {
                         //NeuronValues[j] = 1.0f / (1 + Math.Exp(-x));
-                        NeuronValues[j] = Math.Tanh(x);
+                        NeuronValues[j] = ActivationFunction(activ, x);
                     }
 
                 }
@@ -183,6 +185,21 @@ namespace Neural_Networks_2
             }
 
         }
+
+        private double ActivationFunction(string activation, double x)
+        {
+            double value = 0;
+
+            if (activation == "sigmoid")
+                value = 1.0f / (1 + Math.Exp(-x));
+            if (activation == "tanh")
+                value = Math.Tanh(x);
+            if (activation == "relu")
+                value = Math.Max(0.01 * x, x);
+
+            return value;
+        }
+
         public void AdjustWeights()
         {
             double dw;
