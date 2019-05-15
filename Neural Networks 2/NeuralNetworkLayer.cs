@@ -9,7 +9,7 @@ namespace Neural_Networks_2
 {
     class NeuralNetworkLayer
     {
-       private string activ = "tanh"; // sigmoid, tanh, relu
+       private string activ = settings.NeuronActivationfunction; // sigmoid, tanh, relu
 
        public int NumberOfNodes;
        public int NumberOfChildNodes;

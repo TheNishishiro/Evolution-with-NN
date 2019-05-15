@@ -26,6 +26,9 @@ namespace Neural_Networks_2
         public static float HPrecover = 30;     // HP recovered per food eaten
         public static int mutationRange = 100;  // How much can neural networks weights change if mutation happens (divided by 100)
 
+        public static bool UseLinearOutput = false; // Use linear output for flies 
+        public static string NeuronActivationfunction = "tanh"; // sigmoid, tanh, relu
+
         public static Rectangle cursor;
 
         public static Random rnd = new Random();

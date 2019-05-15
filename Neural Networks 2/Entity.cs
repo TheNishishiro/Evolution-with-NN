@@ -70,7 +70,7 @@ namespace Neural_Networks_2
 
         private void InitBrain()
         {
-            bool useOutput = false;
+            bool useOutput = settings.UseLinearOutput;
 
             // Create new neural network with randomized weigths 
             Brain = new NeuralNetworkv2(array.Length, array);
