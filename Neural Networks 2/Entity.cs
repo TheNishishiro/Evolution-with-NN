@@ -204,10 +204,8 @@ namespace Neural_Networks_2
             Brain.SetInput(2, life / maxHP);
             Brain.FeedForward();
 
-            if (Brain.GetOutput(0) > Brain.GetOutput(1))
-                rotation += Math.Abs((float)Brain.GetOutput(0)) * 4;
-            else
-                rotation -= Math.Abs((float)Brain.GetOutput(1)) * 4;
+            rotation += Math.Abs((float)Brain.GetOutput(0)) * 4;
+            rotation -= Math.Abs((float)Brain.GetOutput(1)) * 4;
 
             velocity = (float)Brain.GetOutput(2) * 10;
 
